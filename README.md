@@ -14,8 +14,10 @@ Pada dasarnya, "searchGPT" dirancang untuk melakukan beberapa tugas utama:
 
 4. **Web Terbuka**: "searchGPT" adalah proyek open-source, yang berarti bahwa kode sumbernya tersedia untuk umum. Hal ini mendorong kolaborasi dan pengembangan lebih lanjut oleh komunitas.
 
+Ini Profile Saya :
 <img width="937" alt="project searchGPT" src="https://github.com/SMSDWIKAD/SearchGPT-refrences/assets/148038744/6cf79627-decb-4271-9cbe-3eaa4cfdbc45">
 
+Ini Sumber Project Saya :
 <img width="944" alt="My Profile" src="https://github.com/SMSDWIKAD/SearchGPT-refrences/assets/148038744/5911c54c-a203-49bf-a326-d071a59e43c0">
 
 
