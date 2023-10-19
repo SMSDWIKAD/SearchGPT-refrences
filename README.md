@@ -14,13 +14,13 @@ Pada dasarnya, "searchGPT" dirancang untuk melakukan beberapa tugas utama:
 
 4. **Web Terbuka**: "searchGPT" adalah proyek open-source, yang berarti bahwa kode sumbernya tersedia untuk umum. Hal ini mendorong kolaborasi dan pengembangan lebih lanjut oleh komunitas.
 
-Ini Profile Saya :
-<img width="937" alt="project searchGPT" src="https://github.com/SMSDWIKAD/SearchGPT-refrences/assets/148038744/6cf79627-decb-4271-9cbe-3eaa4cfdbc45">
-
-Ini Sumber Project Saya :
-<img width="944" alt="My Profile" src="https://github.com/SMSDWIKAD/SearchGPT-refrences/assets/148038744/5911c54c-a203-49bf-a326-d071a59e43c0">
-
-
-6. **Teknologi Large Language Model (LLM)**: Proyek ini bergantung pada teknologi Large Language Model (LLM), yang menggabungkan pemahaman bahasa alami dengan pemrosesan informasi dalam skala besar. Ini memungkinkan "searchGPT" untuk memahami konteks dan memberikan jawaban yang lebih cerdas.
+5. **Teknologi Large Language Model (LLM)**: Proyek ini bergantung pada teknologi Large Language Model (LLM), yang menggabungkan pemahaman bahasa alami dengan pemrosesan informasi dalam skala besar. Ini memungkinkan "searchGPT" untuk memahami konteks dan memberikan jawaban yang lebih cerdas.
 
 Meskipun "searchGPT" tampaknya mirip dengan mesin pencari seperti Bing, ia memiliki potensi untuk berkembang lebih jauh dengan bantuan kontribusi dari komunitas open-source. Proyek ini dapat menjadi alat yang berguna bagi pengguna yang mencari informasi dengan lebih efektif dan intuitif dalam bahasa kita bahkan bahasa indonesia.
+
+Ini Sumber Project Saya :
+<img width="937" alt="project searchGPT" src="https://github.com/SMSDWIKAD/SearchGPT-refrences/assets/148038744/6cf79627-decb-4271-9cbe-3eaa4cfdbc45">
+
+Ini Profile Saya :
+<img width="944" alt="My Profile" src="https://github.com/SMSDWIKAD/SearchGPT-refrences/assets/148038744/5911c54c-a203-49bf-a326-d071a59e43c0">
+
